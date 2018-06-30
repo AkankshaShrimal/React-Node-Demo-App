@@ -12,8 +12,8 @@
 
 
 ## Result:
-p align="center">
-<img src='https://user-images.githubusercontent.com/24764528/42122179-654c6e00-7c5b-11e8-9345-d53c7b854e8a.png' width='700px'></p>
+<p align="center">
+<img src='https://user-images.githubusercontent.com/24764528/42122179-654c6e00-7c5b-11e8-9345-d53c7b854e8a.png' width='900px'></p>
 
 
 ## Procedure :

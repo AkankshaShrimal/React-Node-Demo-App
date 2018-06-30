@@ -1,6 +1,6 @@
 # React-Node-Demo-App
 
-- A simple React-app running over NodeJs backend.  
+- React-app to generate random passwords on button click running over NodeJs backend.  
 - Deployed over heroku.
 - [Live Demo](https://simple-password-generator.herokuapp.com)
 
